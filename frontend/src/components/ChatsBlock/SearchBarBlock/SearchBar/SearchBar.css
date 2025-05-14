@@ -1,0 +1,12 @@
+.search-bar {
+    height: 30px;
+    width: 96%;
+    background-color: #fff;
+    border-radius: 20px;
+    border: 1px solid rgb(216, 212, 212);
+    display: flex;
+    color: rgb(156, 156, 156);
+    align-items: center;
+    /* padding-left: 20px; */
+    column-gap: 8px;
+  }
