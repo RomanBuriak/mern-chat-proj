@@ -1,0 +1,32 @@
+{
+  "name": "mern-chat-proj",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "server": "nodemon app.js",
+    "frontend": "npm run start --prefix frontend",
+    "dev": "concurrently \"npm run server\" \"npm run frontend\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanBuriak/mern-chat-proj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanBuriak/mern-chat-proj/issues"
+  },
+  "homepage": "https://github.com/RomanBuriak/mern-chat-proj#readme",
+  "description": "",
+  "dependencies": {
+    "config": "^3.3.12",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.3"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "nodemon": "^3.1.10"
+  }
+}
