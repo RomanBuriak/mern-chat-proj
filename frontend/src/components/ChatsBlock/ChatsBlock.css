@@ -1,0 +1,6 @@
+.chats-block {
+    /* border-right: 1px solid rgb(216, 212, 212); */
+    flex-basis: 40%;
+    display: flex;
+    flex-direction: column;
+  }

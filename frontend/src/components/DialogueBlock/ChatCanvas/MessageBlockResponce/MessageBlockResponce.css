@@ -1,0 +1,6 @@
+.message-block-responce {
+  display: flex;
+  flex-direction: column;
+  row-gap: 5px;
+  /* border: 1px solid rgb(156, 156, 156); */
+}

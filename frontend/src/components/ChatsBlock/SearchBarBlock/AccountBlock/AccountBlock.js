@@ -1,5 +1,6 @@
 import IconBlock from "./IconBlock/IconBlock";
 import AccountBlockLogBtn from "./AccountBlockLogBtn/AccountBlockLogBtn";
+import "./AccountBlock.css";
 
 function AccountBlock() {
   return (

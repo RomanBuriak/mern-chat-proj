@@ -1,0 +1,8 @@
+.icon-block-img {
+    background-color: #fff;
+    /* border: 1px solid black; */
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    /* background: url("../imgs/profile_img.png"); */
+  }

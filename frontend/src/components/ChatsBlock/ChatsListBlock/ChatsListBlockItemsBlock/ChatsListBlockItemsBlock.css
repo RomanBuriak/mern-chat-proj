@@ -1,0 +1,4 @@
+.chats-list-block-items-block {
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,6 @@
+.dialogue-block-header-block {
+  border-bottom: 1px solid rgb(156, 156, 156);
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+}
