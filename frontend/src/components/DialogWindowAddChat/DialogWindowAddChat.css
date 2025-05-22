@@ -1,0 +1,12 @@
+.dialog-window-add-chat {
+  position: absolute;
+  width: max(30vw, 300px);
+  height: max(60vh, 600px);
+  background-color: #ffffff;
+  left: min(35vw, calc(50vw - 150px));
+  top: min(20vh, calc(50vh - 300px));
+  border: 1px solid #55c5eb;
+  display: flex;
+  flex-direction: column;
+  
+}
